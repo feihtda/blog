@@ -1,0 +1,144 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    text-decoration: none;
+
+}
+h4{
+    margin: 0px 0px 10px;
+}
+h3{
+    margin:10px 0px 20px;
+}
+a{
+    text-decoration:none;
+
+}
+body {
+    background: #EBEBEB;
+    line-height: 1.6;
+    margin-top: 80px;
+
+}
+.content{
+    border-radius: 5px;
+    margin-top: 20px;
+    background: #f9f9f9;
+    height: 200px;
+    padding: 30px;
+}
+.editcontent{
+    border-radius: 5px;
+    margin-top: 20px;
+    height: 400px;
+    padding: 0px 10px ;
+    color: #999999;
+}
+.content a{
+    text-decoration: none;
+    color: #333;
+}.content a:hover{
+     color: #999999;
+ }
+
+.head{
+    padding: 0px;
+}
+.nav{
+    margin: 0px;
+}
+.spannav{
+    margin: 12px 0px;
+}
+.spannav span{
+    margin-right: 12px;
+}
+.spannav a{
+    color: #0f0f0f;
+    text-decoration: none;
+}
+.category{
+    margin-top: 20px;
+    border-radius: 5px;
+    padding:20px 30px;
+}
+.cateul{
+    padding: 10px 10px;
+}
+.cateul li{
+    padding: 5px 0px;
+}.cateul li a{
+     text-decoration: none;
+ }
+.lebaled{
+    margin-top: 20px;
+    border-radius: 5px;
+
+    padding:20px 30px;
+}
+.lebaled a{
+    padding: 7px 8px;
+    margin: 10px 10px 0px 0px;
+}
+.labe button{
+    margin-top: 8px;
+}
+.person{
+    margin-top: 20px;
+    border-radius: 5px;
+    padding:20px 30px;
+}
+.person a{
+    padding: 7px 8px;
+    margin: 10px 10px 0px 0px;
+}
+.lbottom{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-top: 20px;
+    background: #f9f9f9;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+}
+.article{
+    border-radius: 5px;
+    margin-top: 15px;
+    background: #f9f9f9;
+    padding: 20px 30px 20px 40px;
+}
+.article1{
+    border-radius: 5px;
+    margin-top: 15px;
+    background: #f9f9f9;
+    padding: 20px 30px 20px 40px;
+    margin-bottom: 50px;
+}
+.art{
+    padding: 7px 15px 10px 15px;
+    margin-left: 35px;
+}
+.labe button{
+    margin-top: 10px;
+}
+.labelborder{
+    width: 100px;
+    float: left;
+}
+.dateborder{
+    width: 120px;
+    float: left;
+}
+.spannav{
+   display: block;
+    height: 20px;
+}
+.page{
+    margin-bottom: 50px;
+}
+.comment{
+    margin-top: 20px;
+    padding: 15px 20px 0px 20px;
+    border-top: #e3e3e3 solid 1px;
+}
